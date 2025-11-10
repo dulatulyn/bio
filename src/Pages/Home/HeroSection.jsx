@@ -19,7 +19,7 @@ export default function HeroSection() {
             </div>
 
             <div className="hero--section--image">
-                <img src="./app/public/img/face.jpeg" alt="my photo" className="img"/>
+                <img src="./img/face.jpeg" alt="my photo" className="img"/>
             </div>
         </section>
     );

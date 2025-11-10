@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/#",
+      "title": "Backend",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
+    },
+    {
+      "id": "2",
+      "src": "./img/#",
+      "title": "Java – spring",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
+    },
+    {
+      "id": "3",
+      "src": "./img/#",
+      "title": "Python - FastAPI",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
+    },
+    {
+      "id": "4",
+      "src": "./img/#",
+      "title": "Backend",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
+    }
+  ]
+}
