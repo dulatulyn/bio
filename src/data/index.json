@@ -24,5 +24,54 @@
       "title": "Backend",
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
     }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/#",
+      "title": "Fluensa",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
+      "link": "sample link"
+    },
+    {
+      "id": "2",
+      "src": "./img/#",
+      "title": "Memigma",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
+      "link": "sample link"
+    },
+    {
+      "id": "3",
+      "src": "./img/#",
+      "title": "Vincura",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
+      "link": "sample link"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/#",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
+      "author_name": "Beq Yerlepes",
+      "author_designation": "Kernel group"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/#",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
+      "author_name": "Serdar Dundar",
+      "author_designation": "Kernel group"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/#",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
+      "author_name": "Kenzhegaliyev Nursultan",
+      "author_designation": "Kernel group"
+    }
   ]
 }

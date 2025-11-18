@@ -4,6 +4,7 @@ import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import Home from "./Pages/Home/Homescreen/"; 
 import Navbar from "./Pages/Home/Navbar";
 import HeroSection from './Pages/Home/HeroSection';
+import MySkills from './Pages/Home/MySkills';
 
 function App() {
   return (
@@ -19,8 +20,7 @@ function App() {
           </Routes>
         </div>
       </Router> */}
-      <Navbar/>
-      <HeroSection/>
+      <Home/>
     </div>
   );
 }
