@@ -46,7 +46,7 @@
       "id": "3",
       "src": "./img/#",
       "title": "Vincura",
-      "description": "Business-oriented web platform with role-based access, data visualization dashboards, and scalable backend architecture.",
+      "description": "A smart pocket clipboard where you can store data of any type, from text to large files.",
       "link": "",
       "videoUrl": ""
     }
@@ -56,24 +56,24 @@
       "id": "1",
       "count": "5",
       "src": "https://media.licdn.com/dms/image/v2/D4E03AQHZQ-Ir1z0oCw/profile-displayphoto-shrink_400_400/B4EZUEg5PhHUAg-/0/1739537488867?e=1766620800&v=beta&t=oCWTSv-PJoHhcBS-iUfZfijKqu2_A96h_NEqH4TXjhE",
-      "description": "Demonstrated strong problem-solving skills and delivered clean, production-ready solutions under tight deadlines.",
-      "author_name": "Erasyl Kokenov",
+      "description": "Completely recommend for backend developer positions",
+      "author_name": "E. Kokenov",
       "author_designation": "Bank Center Credit"
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/bek-yerlepes",
-      "description": "gonna add in future",
-      "author_name": "Bek Yerlepes",
+      "description": "It was a pleasure working with him. I’m looking forward to our future projects, and I have no doubt they will be successful.",
+      "author_name": "B. Yerlepes",
       "author_designation": "Kernel group"
     },
     {
       "id": "3",
       "count": "5",
       "src": "..jpg",
-      "description": "gonna add in future",
-      "author_name": "Serdar Dundar",
+      "description": "It was great working together. (And also, fun fact – he practically carried our hackathon by himself)",
+      "author_name": "S. Dundar",
       "author_designation": "Kernel group"
     }
   ]
