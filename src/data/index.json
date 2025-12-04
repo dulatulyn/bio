@@ -2,27 +2,27 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/#",
-      "title": "Backend",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
+      "src": "./img/react.png",
+      "title": "Python – FastAPI",
+      "description": "Deep understanding of Python core, asynchronous programming, and building high-performance, scalable APIs with FastAPI."
     },
     {
       "id": "2",
-      "src": "./img/#",
-      "title": "Java – spring",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
+      "src": "./img/java.png",
+      "title": "Java – Spring",
+      "description": "Strong knowledge of Java core and Spring ecosystem, building production-grade REST APIs following clean architecture and best practices."
     },
     {
       "id": "3",
-      "src": "./img/#",
-      "title": "Python - FastAPI",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
+      "src": "./img/python.png",
+      "title": "React JS",
+      "description": "Building modern, responsive user interfaces with component-based architecture, hooks, and efficient state management."
     },
     {
       "id": "4",
-      "src": "./img/#",
-      "title": "Backend",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem."
+      "src": "./img/docker.webp",
+      "title": "Docker & CI/CD",
+      "description": "Containerizing applications, writing Dockerfiles, and setting up CI/CD pipelines for automated testing and deployment."
     }
   ],
   "portfolio": [
@@ -30,47 +30,50 @@
       "id": "1",
       "src": "./img/#",
       "title": "Fluensa",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
-      "link": "sample link"
+      "description": "A full-stack language learning platform with authentication, progress tracking, and real-time interaction features.",
+      "link": "",
+      "videoUrl": "https://www.youtube.com/embed/EHbDrxzdNzc"
     },
     {
       "id": "2",
       "src": "./img/#",
       "title": "Memigma",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
-      "link": "sample link"
+      "description": "Educational web application focused on memory training, featuring user profiles, statistics, and gamified learning mechanics.",
+      "link": "",
+      "videoUrl": "https://drive.google.com/file/d/1Ww95rqS0E1AmNqroEjB8plJscNwln3Cj/preview"
     },
     {
       "id": "3",
       "src": "./img/#",
       "title": "Vincura",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
-      "link": "sample link"
+      "description": "Business-oriented web platform with role-based access, data visualization dashboards, and scalable backend architecture.",
+      "link": "",
+      "videoUrl": ""
     }
   ],
   "testimonial": [
     {
       "id": "1",
       "count": "5",
-      "src": "./img/#",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
-      "author_name": "Beq Yerlepes",
-      "author_designation": "Kernel group"
+      "src": "https://media.licdn.com/dms/image/v2/D4E03AQHZQ-Ir1z0oCw/profile-displayphoto-shrink_400_400/B4EZUEg5PhHUAg-/0/1739537488867?e=1766620800&v=beta&t=oCWTSv-PJoHhcBS-iUfZfijKqu2_A96h_NEqH4TXjhE",
+      "description": "Demonstrated strong problem-solving skills and delivered clean, production-ready solutions under tight deadlines.",
+      "author_name": "Erasyl Kokenov",
+      "author_designation": "Bank Center Credit"
     },
     {
       "id": "2",
       "count": "5",
-      "src": "./img/#",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
-      "author_name": "Serdar Dundar",
+      "src": "./img/bek-yerlepes",
+      "description": "gonna add in future",
+      "author_name": "Bek Yerlepes",
       "author_designation": "Kernel group"
     },
     {
       "id": "3",
       "count": "5",
-      "src": "./img/#",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit, voluptatem.",
-      "author_name": "Kenzhegaliyev Nursultan",
+      "src": "..jpg",
+      "description": "gonna add in future",
+      "author_name": "Serdar Dundar",
       "author_designation": "Kernel group"
     }
   ]

@@ -6,6 +6,7 @@ import MyPortfolio from "../MyPortfolio";
 import Testimonial from "../Testimonials";
 import ContactMe from "../ContactMe";
 import Footer from "../Footer";
+import CV from "../CV"
 
 export default function Home(){
     return(
@@ -16,6 +17,7 @@ export default function Home(){
             <AboutMe/>
             <MyPortfolio/>
             <Testimonial/>
+            <CV/>
             <ContactMe/>
             <Footer/>
         </>
